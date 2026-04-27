@@ -1,0 +1,35 @@
+# Environment
+.env
+.env.local
+.env.production
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# ChromaDB
+chroma_db*/
+
+# Audio temp files
+*.mp3
+*.wav
+*.m4a
+temp_audio*
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml

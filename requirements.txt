@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-community
+langchain-groq
+langchain-text-splitters
+chromadb
+yt-dlp
+openai-whisper
+python-dotenv
+groq
