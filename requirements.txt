@@ -1,0 +1,11 @@
+streamlit
+langchain==0.1.20
+langchain-community==0.0.38
+langchain-groq
+chromadb
+yt-dlp
+openai-whisper
+python-dotenv
+groq
+ffmpeg-python
+tiktoken
